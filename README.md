@@ -63,7 +63,7 @@ Este app ajuda os usuários a encontrar barbeiros próximos com base em sua loca
       - Use o campo de texto para inserir um endereço manualmente ou clique no ícone de GPS para localizar-se automaticamente.
 
 ## NÃO SABE?
-- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+- Entendemos que para manipular arquivos em diversas linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE REACT NATIVE](https://github.com/VILHALVA/CURSO-DE-REACT-NATIVE)
 * [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
